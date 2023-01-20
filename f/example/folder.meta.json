@@ -1,6 +1,7 @@
 {
-    "owners": [],
-    "extra_perms": {
-        "g/all": true
-    }
+  "owners": [],
+  "extra_perms": {},
+  "workspace_id": "sync-demo",
+  "name": "example",
+  "display_name": "example"
 }

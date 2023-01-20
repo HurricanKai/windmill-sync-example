@@ -1,26 +1,32 @@
 {
-    "summary": "",
-    "description": "",
-    "value": {
-        "modules": [
-            {
-                "id": "a",
-                "value": {
-                    "path": "f/example/example-script",
-                    "type": "script",
-                    "input_transforms": {}
-                },
-                "summary": null,
-                "stop_after_if": null,
-                "input_transforms": {}
-            }
-        ],
-        "failure_module": null
-    },
-    "schema": {
-        "$schema": "https://json-schema.org/draft/2020-12/schema",
-        "properties": {},
-        "required": [],
-        "type": "object"
-    }
+  "summary": "",
+  "description": "",
+  "value": {
+    "modules": [
+      {
+        "id": "a",
+        "value": {
+          "path": "f/example/example-script",
+          "type": "script",
+          "input_transforms": {}
+        },
+        "summary": null,
+        "stop_after_if": null,
+        "input_transforms": {}
+      }
+    ],
+    "failure_module": null
+  },
+  "schema": {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "properties": {},
+    "required": [],
+    "type": "object"
+  },
+  "workspace_id": "sync-demo",
+  "path": "f/example/example-flow",
+  "edited_by": "kai",
+  "edited_at": "2023-01-20T14:55:57.087006Z",
+  "archived": false,
+  "extra_perms": {}
 }

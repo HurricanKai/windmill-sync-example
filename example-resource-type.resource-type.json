@@ -1,15 +1,17 @@
 {
-    "description": "Example Resource Type",
-    "schema": {
-        "$schema": "https://json-schema.org/draft/2020-12/schema",
-        "properties": {
-            "example": {
-                "type": "string",
-                "description": "",
-                "default": "content"
-            }
-        },
-        "required": [],
-        "type": "object"
-    }
+  "description": "Example Resource Type",
+  "schema": {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "properties": {
+      "example": {
+        "type": "string",
+        "description": "",
+        "default": "content"
+      }
+    },
+    "required": [],
+    "type": "object"
+  },
+  "workspace_id": "sync-demo",
+  "name": "example-resource-type"
 }
